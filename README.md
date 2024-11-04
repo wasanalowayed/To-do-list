@@ -1,4 +1,18 @@
-# To-Do List Application
+# Table of Contents:
+
+
+1. Introduction
+2. Application Idea
+3. Features
+4. Technologies Used
+5. Advanced React-Native
+6. Getting Started
+7. Prerequisites
+8. Additional Setup for react-native-vector-icons
+9. Installation
+10. Contributors
+
+
 
 
 # Introduction
