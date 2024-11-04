@@ -62,7 +62,7 @@ and intuitive interface.
 
 Follow these steps to set up the project locally:
 
-# Prerequisites
+**Prerequisites**
 
  • Node.js and npm installed
 
@@ -84,7 +84,7 @@ npm install uid
 
 
 
-# Additional Setup for react-native-vector-icons
+**Additional Setup for react-native-vector-icons**
 
 If using react-native-vector-icons, make sure to follow these steps:
 
@@ -120,7 +120,7 @@ dependencies {
 
 
 
-# Installation
+**Installation**
 
  1. Clone the repository:
 
@@ -141,12 +141,6 @@ npm install
 
 expo start
 
-
-
-# Advanced React Native Concepts
-
- 1. Dynamic Styling: The app uses platform-specific styles to adapt the user interface based on whether the app is running on iOS or Android, improving the user experience with conditional rendering and loading indicators.
- 2. Animations: Several animations enhance the UX, including fade-in effects, expandable sections, and responsive button interactions, creating a visually engaging interface.
 
 # Contributors
 
